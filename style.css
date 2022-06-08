@@ -1,0 +1,82 @@
+body {
+  background-image: url(./images/produktai-71472880.jpg);
+}
+
+.headerwrapper {
+  background-color: white;
+}
+
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  background-color: white;
+}
+
+.logo img {
+  height: 100px;
+}
+
+nav a {
+  color: black;
+  padding: 10px;
+}
+
+main {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: white;
+}
+
+main img {
+  width: 30%;
+  float: left;
+  margin-right: 8px;
+}
+
+footer {
+  max-width: 1200px;
+  margin: 0px auto;
+  text-align: center;
+  padding: 8px;
+  background-color: white;
+  padding: 20px;
+}
+
+span {
+  color: darkgreen;
+}
+
+input,
+textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.mygtukas {
+  width: 50%;
+  background-color: darkgreen;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 40px;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid lightgray;
+  padding: 10px;
+  text-align: center;
+}
